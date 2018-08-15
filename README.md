@@ -1,2 +1,2 @@
 # ExampleJSON
-Serializing and Deserializing JSON with JavaScriptSerializer in C#
+Serializing and Deserializing JSON with Newtonsoft.Json in C# (ASP.NET Core 2)
