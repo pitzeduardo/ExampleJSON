@@ -1,0 +1,11 @@
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleJSON.deps.json
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleJSON.runtimeconfig.json
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleJSON.runtimeconfig.dev.json
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleJSON.dll
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\bin\Debug\netcoreapp2.0\ExampleJSON.pdb
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.csprojAssemblyReference.cache
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.csproj.CoreCompileInputs.cache
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.AssemblyInfoInputs.cache
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.AssemblyInfo.cs
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.dll
+C:\Pitz.Doc\Projetos\ExampleJSON\ExampleJSON\ExampleJSON\obj\Debug\netcoreapp2.0\ExampleJSON.pdb
